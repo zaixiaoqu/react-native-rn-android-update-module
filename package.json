@@ -1,0 +1,29 @@
+{
+  "name": "react-native-rn-android-update-module",
+  "title": "React Native app 自动升级",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaixiaoqu/react-native-rn-android-update-module.git",
+    "baseUrl": "https://github.com/zaixiaoqu/react-native-rn-android-update-module"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-rn-android-update-module",
+    "React Native app 自动升级"
+  ],
+  "author": {
+    "name": "yusheng",
+    "email": "don@zaixiaoqu.cn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaixiaoqu/react-native-rn-android-update-module/issues"
+  },
+  "homepage": "https://github.com/zaixiaoqu/react-native-rn-android-update-module.git#readme"
+}
