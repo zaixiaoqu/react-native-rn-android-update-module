@@ -1,8 +1,8 @@
 {
   "name": "react-native-rn-android-update-module",
   "title": "React Native app 自动升级",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "1.0.1",
+  "description": "React Native app 自动升级",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
